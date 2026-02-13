@@ -41,6 +41,7 @@ def print_pascals_triangle_formula(num_rows):
          print(row_str.center(max_width))
 
 n = int(input())
+
 print_pascals_triangle_formula(n)
 
 ## Sample Output
